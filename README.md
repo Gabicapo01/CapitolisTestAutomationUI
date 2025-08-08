@@ -34,12 +34,6 @@ Clone the project in your local and build it. It should load and run straight aw
     <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
     <PackageReference Include="Selenium.WebDriver" Version="4.34.0" />
 
-## Reporting Tool
-
-Extents Report has been implemented in this framework.
-
-
-
 ## Assumptions made
 There will not be 2 Factor Authentication methods to actually create the new account.
 
@@ -48,5 +42,14 @@ This is only running in Chrome Browser.
 The Tests are currently passing at the time of pushing.
 
 <img width="756" height="166" alt="image" src="https://github.com/user-attachments/assets/af2f730e-c95f-47df-aabe-55f2b2d7b4b2" />
+
+
+## Reporting Tool
+
+Extents Report has been implemented in this framework.
+
+This is how the report is currently looking. Attached to the project, or after running the project the file will be automatically generated under \bin\Debug\net9.0 folder
+<img width="1902" height="912" alt="image" src="https://github.com/user-attachments/assets/c457821e-7d7b-4030-ab12-23a4cd11c0b9" />
+
 
 
